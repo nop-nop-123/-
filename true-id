@@ -1,0 +1,54 @@
+#EXTM3U
+# --- กลุ่มช่องดิจิทัลทีวีหลัก ---
+#EXTINF:-1 tvg-id="ch3-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5ff3e270-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="Digital TV",ch3-hd 
+https://tv.trueid.net/th-th/live/ch3-hd 
+#EXTINF:-1 tvg-id="ch7-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/19/212d15e0-25e7-11ee-bfc1-85e95548413c_webp_original.webp" group-title="Digital TV",ch7-hd 
+https://tv.trueid.net/th-th/live/ch7-hd 
+#EXTINF:-1 tvg-id="ch5" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7e060a10-2515-11ee-864f-a52221dad038_webp_original.webp" group-title="Digital TV",ch5 
+https://tv.trueid.net/th-th/live/ch5 
+#EXTINF:-1 tvg-id="9mcot-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/09/9cc40970-4ebe-11ee-9801-97f95b5eed9a_webp_original.webp" group-title="Digital TV",9mcot-hd 
+https://tv.trueid.net/th-th/live/9mcot-hd 
+#EXTINF:-1 tvg-id="nbt" tvg-logo="https://cms.dmpcdn.com/livetv/2023/10/02/4a2afc60-60f1-11ee-a78e-f70ba0052fab_webp_original.webp" group-title="Digital TV",nbt 
+https://tv.trueid.net/th-th/live/nbt 
+#EXTINF:-1 tvg-id="thaipbs" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/ab170410-5377-11ee-8e1b-194edbb69638_webp_original.webp" group-title="Digital TV",thaipbs 
+https://tv.trueid.net/th-th/live/thaipbs 
+
+# --- กลุ่มช่องบันเทิงและวาไรตี้ ---
+#EXTINF:-1 tvg-id="one-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png" group-title="Entertainment",one-hd 
+https://tv.trueid.net/th-th/live/one-hd 
+#EXTINF:-1 tvg-id="workpointtv" tvg-logo="https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp" group-title="Entertainment",workpointtv 
+https://tv.trueid.net/th-th/live/workpointtv 
+#EXTINF:-1 tvg-id="gmm25" tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_original.png" group-title="Entertainment",gmm25 
+https://tv.trueid.net/th-th/live/gmm25 
+#EXTINF:-1 tvg-id="ch8" tvg-logo="https://cms.dmpcdn.com/livetv/2024/12/24/f5c6ee50-c1d3-11ef-962c-55a14ec29c2c_webp_original.webp" group-title="Entertainment",ch8 
+https://tv.trueid.net/th-th/live/ch8 
+#EXTINF:-1 tvg-id="mono29" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png" group-title="Entertainment",mono29 
+https://tv.trueid.net/th-th/live/mono29 
+#EXTINF:-1 tvg-id="amarintv-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2024/07/23/5e86fbc0-48c0-11ef-9fca-d9696b8af2b7_webp_original.webp" group-title="Entertainment",amarintv-hd 
+https://tv.trueid.net/th-th/live/amarintv-hd 
+#EXTINF:-1 tvg-id="true4u" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/84504210-5377-11ee-aaa1-7d584d8ca7a4_webp_original.webp" group-title="Entertainment",true4u 
+https://tv.trueid.net/th-th/live/true4u 
+#EXTINF:-1 tvg-id="realitychannel-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7d74eda0-2515-11ee-864f-a52221dad038_webp_original.webp" group-title="Entertainment",realitychannel-hd 
+https://tv.trueid.net/th-th/live/realitychannel-hd 
+
+# --- กลุ่มช่องข่าว ---
+#EXTINF:-1 tvg-id="thairathtv-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2024/07/18/848915e0-44e9-11ef-9e86-a13521bc09bd_webp_original.webp" group-title="News",thairathtv-hd 
+https://tv.trueid.net/th-th/live/thairathtv-hd 
+#EXTINF:-1 tvg-id="pptv-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2024/06/26/48fb8a90-338b-11ef-a958-ed31043c43a3_webp_original.webp" group-title="News",pptv-hd 
+https://tv.trueid.net/th-th/live/pptv-hd 
+#EXTINF:-1 tvg-id="tnn16" tvg-logo="https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.webp" group-title="News",tnn16 
+https://tv.trueid.net/th-th/live/tnn16 
+#EXTINF:-1 tvg-id="nationtv" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/09/9c6f59c0-4ebe-11ee-99a7-832609069236_webp_original.webp" group-title="News",nationtv 
+https://tv.trueid.net/th-th/live/nationtv 
+#EXTINF:-1 tvg-id="top-news" tvg-logo="https://cms.dmpcdn.com/livetv/2025/06/19/cab7bcc0-4cc6-11f0-b437-536ba535ba63_webp_original.webp" group-title="News",top-news 
+https://tv.trueid.net/th-th/live/tid-top-news 
+#EXTINF:-1 tvg-id="newss1" tvg-logo="https://cms.dmpcdn.com/livetv/2025/01/28/d62afee0-dd32-11ef-953b-ef346c97cada_webp_original.webp" group-title="News",newss1 
+https://tv.trueid.net/th-th/live/news-newss1 
+
+# --- กลุ่มช่องการ์ตูนและกีฬา ---
+#EXTINF:-1 tvg-id="cartoon-club-channel" tvg-logo="https://cms.dmpcdn.com/livetv/2025/06/26/44b90e20-525d-11f0-9c0d-151e7d28e33f_webp_original.webp" group-title="Kids & Sports",cartoon-club-channel 
+https://tv.trueid.net/th-th/live/tid-cartoon-club-channel 
+#EXTINF:-1 tvg-id="boomerang-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2025/06/02/e810afc0-3fba-11f0-8cc5-8d160eb89f9f_webp_original.webp" group-title="Kids & Sports",boomerang-hd 
+https://tv.trueid.net/th-th/live/boomerang-hd 
+#EXTINF:-1 tvg-id="t-sports-7-sd" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.webp" group-title="Kids & Sports",t-sports-7-sd 
+https://tv.trueid.net/th-th/live/t-sports-7-sd
